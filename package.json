@@ -37,7 +37,7 @@
     "chai-smoothie": "^0.2.0",
     "chai-string": "^1.5.0",
     "html-dnd": "^1.2.0",
-    "log4js": "1.1.1",
+    "log4js": "6.4.0",
     "log4js-protractor-appender": "^1.1.2",
     "mkdirp": "^0.5.1",
     "moment": "^2.24.0",
